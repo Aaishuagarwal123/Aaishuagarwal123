@@ -1,8 +1,15 @@
 <h1 align="center">HELLO 👋, I'm AAISHU AGARWAL</h1>
- Reach out to me on:📧 **asishu66@gmail.com**
+ 
+ 
+## **Talking about Personal Stuffs:**
 
+- 🌱 I’m currently working on MERN Stack
+- 🔭 I love solving dsa problems
+- 💬 Ask me about anything,I am happy to help
+- 📫 How to reach me: asishu66@gmail.com
+- ⚡ Fun fact: **When I wrote this code, only God and I understood what I did. Now only God knows.**
 
-⚡ Fun fact: **When I wrote this code, only God and I understood what I did. Now only God knows.**
+ <img align="right" width="400" height="250" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
