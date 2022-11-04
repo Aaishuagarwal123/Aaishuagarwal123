@@ -26,10 +26,10 @@
 <img alt = "profile views" src="https://komarev.com/ghpvc/?username=Aaishuagarwal1237&color=brightgreen"> 
 <h2 aligh= "center">
 
-![](https://github-readme-stats.vercel.app/api?username=Aaishuagarwal123&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Aaishuagarwal123)<br/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Aaishuagarwal123&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Aaishuagarwal123)<br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aaishuagarwal123&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aaishuagarwal123)
 
 </h2>
