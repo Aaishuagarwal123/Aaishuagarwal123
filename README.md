@@ -1,4 +1,5 @@
-<h1 align="center">HELLO 👋, I'm AAISHU AGARWAL</h1>
+<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Hi, welcome! 
+<h2> I'm Aaishu! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
  
  
 ## **Talking about Personal Stuffs:**
